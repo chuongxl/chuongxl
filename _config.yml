@@ -9,5 +9,5 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-minimal
-title: Chuong Nguyen (Alex)'s blog
+title: Alex Nguyen's blog
 description: Software engineer blog.
