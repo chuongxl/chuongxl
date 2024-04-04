@@ -8,6 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Alex Nguyen's blog
-#description: Software engineer blog.
+description: Software is a great combination of artistry and engineering. –  Bill Gates
