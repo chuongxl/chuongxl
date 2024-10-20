@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-- My name is Chuong Nguyen. I'm an experienced software developer with more than 14 years of experience in the industry. I currently work as a Solution Architect, where I'm responsible for developing technical solutions to help clients solve their business problems.
-- I have a strong background in C#, .NET, and web development, as well as a deep understanding of software architecture and design patterns. I'm also proficient in many other technologies, such as Java Spring framework, reactjs, nextjs, SQL Server, Kubernetes, Docker, AWS, and Azure. I'm an expert at writing clean code that is easy to maintain and understand. I'm passionate about building high-quality software solutions and take pride in my work. I'm always eager to learn new technologies and love experimenting with different technologies to find the best solution for each problem.
-- Besides my professional work, I am deeply passionate about both the tech community and education. This passion has driven me to create an inclusive platform(itschool.dev), dedicated to education. Utilizing cutting-edge AI technology, our platform aims to assist students and professionals alike in broadening their knowledge and refining their skills. If you're interested in joining or discussing this project, please feel free to reach out to me via email at itschoolvndev@gmail.com or alex.nguyenxl@gmail.com."
+Hi there! I’m Alex Nguyen, and I’m excited to share a bit about myself. With over 14 years in software development, I currently work as a Solution Architect, where I love crafting technical solutions that help clients tackle their business challenges.
+
+My expertise lies in C#, .NET, and web development, along with a solid grasp of software architecture and design patterns. I also enjoy working with a variety of other technologies, including the Java Spring framework, React, Next.js, SQL Server, Kubernetes, Docker, AWS, and Azure. Writing clean, maintainable code is a passion of mine, and I take great pride in delivering high-quality software solutions. I’m always eager to learn and experiment with new technologies to find the best fit for each project.
+
+Outside of my professional work, I’m deeply committed to the tech community and education. That’s why I created itschool.dev, an inclusive platform aimed at empowering students and professionals through cutting-edge AI technology. Our goal is to help everyone expand their knowledge and sharpen their skills.
+
+If you’re interested in joining our mission or just want to chat about the project, feel free to reach out at itschoolvndev@gmail.com or alex.nguyenxl@gmail.com. I’d love to connect!
+
 <!--
 **chuongxl/chuongxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
