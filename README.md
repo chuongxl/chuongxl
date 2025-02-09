@@ -4,10 +4,6 @@ Hi there! I’m Alex Nguyen, and I’m excited to share a bit about myself. With
 
 My expertise lies in C#, .NET, and web development, along with a solid grasp of software architecture and design patterns. I also enjoy working with a variety of other technologies, including the Java Spring framework, React, Next.js, SQL Server, Kubernetes, Docker, AWS, and Azure. Writing clean, maintainable code is a passion of mine, and I take great pride in delivering high-quality software solutions. I’m always eager to learn and experiment with new technologies to find the best fit for each project.
 
-Outside of my professional work, I’m deeply committed to the tech community and education. That’s why I created itschool.dev, an inclusive platform aimed at empowering students and professionals through cutting-edge AI technology. Our goal is to help everyone expand their knowledge and sharpen their skills.
-
-If you’re interested in joining our mission or just want to chat about the project, feel free to reach out at itschoolvndev@gmail.com or alex.nguyenxl@gmail.com. I’d love to connect!
-
 <!--
 **chuongxl/chuongxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
