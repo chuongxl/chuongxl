@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-Hi there! I’m Alex Nguyen, and I’m excited to share a bit about myself. With over 14 years in software development, I currently work as a Solution Architect, where I love crafting technical solutions that help clients tackle their business challenges.
+I’m a Senior Solution Architect and Technical Program Leader with 17+ years of experience building enterprise software, cloud platforms, and AI-driven solutions.
 
-My expertise lies in C#, .NET, and web development, along with a solid grasp of software architecture and design patterns. I also enjoy working with a variety of other technologies, including the Java Spring framework, React, Next.js, SQL Server, Kubernetes, Docker, AWS, and Azure. Writing clean, maintainable code is a passion of mine, and I take great pride in delivering high-quality software solutions. I’m always eager to learn and experiment with new technologies to find the best fit for each project.
+My work focuses on helping organizations modernize legacy systems, migrate to cloud platforms, and adopt AI technologies to transform software development and business operations.
+
+Throughout my career, I have designed and delivered large-scale distributed systems and cloud-native architectures, primarily on Azure, AWS, and enterprise platforms using .NET, Java , NodeJS and Python
+
+Recently, my focus has expanded to AI engineering and agentic systems, including the design of AI-SDLC frameworks where AI agents assist and automate different stages of the software development lifecycle — from design and coding to testing and quality assurance.
+
+I actively build and experiment with:
+
+• AI Agentic Systems and Agent Workflows
+• AI-SDLC platforms for intelligent software engineering
+• LLM-based agents and multi-agent architectures
+• Small / efficient LLM deployment (vLLM and optimized inference)
+• Cloud-native AI infrastructure on Azure and AWS
 
 <!--
 **chuongxl/chuongxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
